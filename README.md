@@ -3,13 +3,11 @@
 ## I'm Data Science student!!
 
 - 🌱 I’m currently learning everything
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 👯 I’m looking to learn about other programing languages
+- 🥅 2021 Goals: improve my data scince skills
+- ⚡ Fun fact: I love to play video-games
 
 [<img align="left" alt="GustavoSanches55 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
 <br />
 
 ### Languages and Tools:
