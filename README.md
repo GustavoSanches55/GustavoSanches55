@@ -10,7 +10,7 @@
 ### Languages and Tools:
 
 - R
-- C e C++
+- C
 - Python
 
 <br />
