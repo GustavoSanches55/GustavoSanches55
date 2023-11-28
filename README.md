@@ -10,10 +10,10 @@ data exploration, statistical analysis, and machine learning applications.
 - **Programming Languages:** Proficient in Python (NumPy, Pandas, Scikit-Learn) and R
   
 - **Data Visualization:** Skilled in Matplotlib, Seaborn, and Plotly. And others, <br>
-- such as D3.js and ggplot2
+such as D3.js and ggplot2
   
 - **Machine Learning:** Experienced in regression, classification, clustering, and <br>
-- neural networks.
+neural networks.
   
 - **Big Data Technologies:** Knowledgeable in Hadoop and Spark.
   
