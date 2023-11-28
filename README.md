@@ -38,4 +38,4 @@ improved decision-making and patient outcomes.
 I am open to engaging in collaborations, discussions, and learning opportunities. Please <br>
 feel free to reach out if you have inquiries, ideas, or simply wish to discuss data science!
 
-**linkedin**: https://www.linkedin.com/in/gustavosanches55/
+**Linkedin**: https://www.linkedin.com/in/gustavosanchescosta/
